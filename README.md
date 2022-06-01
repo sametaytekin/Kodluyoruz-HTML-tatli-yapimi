@@ -1,2 +1,4 @@
-# Kodluyoruz-HTML-tatli-yapimi
-www.patika.dev
+# Tatlı Yapımı
+
+
+Bu mini projede HTML'in çeşitli özelliklerini kullanarak www.patika.dev ödevi için website oluşturulmuştur.
